@@ -1,11 +1,13 @@
 # dependencies
 node_modules
-dist
+dist/
+# system files
+.DS_Store
+*.log
+.env
 
 # logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# system files
-.DS_Store
